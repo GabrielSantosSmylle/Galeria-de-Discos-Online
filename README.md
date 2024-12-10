@@ -52,12 +52,16 @@ Modal para exibição de informações detalhadas.
 Layout responsivo adaptado para diferentes tamanhos de tela.
 Feedback visual para processos em andamento.
 Configuração e Execução
+
 Instalar Dependências:
 O projeto utiliza o Bootstrap e o JavaScript nativo.
 Nenhuma dependência adicional precisa ser instalada.
+
 Chave de API:
 Certifique-se de que a chave fornecida está configurada corretamente no código.
+
 Executar o Projeto:
 Abra o arquivo index.html em qualquer navegador moderno.
 Considerações Finais
+
 O sistema foi projetado para ser eficiente e intuitivo. A autenticação foi otimizada para evitar múltiplas chamadas desnecessárias, e a implementação da rolagem infinita garante que os usuários tenham uma experiência contínua. O uso do Bootstrap proporciona uma interface limpa e responsiva. Todas as chamadas HTTP incluem tratamento de erros para lidar com eventuais falhas de rede ou problemas na API.
